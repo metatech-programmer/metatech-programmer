@@ -77,7 +77,7 @@ Mi interés principal radica en cómo la tecnología puede facilitar tareas diar
 
 ## 📞 Contáctame
 
-Estoy abierto a colaborar en proyectos y explorar nuevas oportunidades. Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/alexander-aguilar-torres-742919273) o explorar más sobre mi trabajo en [mi portafolio](https://santiago-portafolio.vercel.app/).
+Estoy abierto a colaborar en proyectos y explorar nuevas oportunidades. Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/alexander-torres-74a729137?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) o explorar más sobre mi trabajo en [mi portafolio](https://santiagotorres-web-developer.netlify.app/).
 
 ---
 
