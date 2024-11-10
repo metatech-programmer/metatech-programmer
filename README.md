@@ -1,7 +1,7 @@
 # 💻 Santiago Aguilar | Junior Developer & Innovator
 
 **¡Bienvenido a mi perfil!**  
-Soy un apasionado estudiante de Ingeniería de Sistemas enfocado en el desarrollo de software y la tecnología. Con experiencia en proyectos que impulsan la transformación digital y la movilidad urbana, aplico habilidades en programación y bases de datos para resolver problemas del mundo real. Me encanta aprender, colaborar y aportar al crecimiento de comunidades tecnológicas.
+Soy un estudiante de Ingeniería de Sistemas con pasión por el desarrollo de software y la innovación tecnológica. Con una base sólida en programación y experiencia en proyectos de código abierto, me enfoco en crear soluciones efectivas y en constante evolución. Valoro la calidad, el aprendizaje continuo y la colaboración dentro de la comunidad tecnológica.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-aguilar-torres-742919273)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=web&logoColor=white)](https://santiago-portafolio.vercel.app/)
@@ -10,9 +10,9 @@ Soy un apasionado estudiante de Ingeniería de Sistemas enfocado en el desarroll
 
 ## 🌟 Sobre Mí
 
-Soy un estudiante de Ingeniería de Sistemas en el 7° semestre, motivado por la misión de facilitar la vida de las personas a través de soluciones digitales innovadoras. Mi experiencia abarca desde el desarrollo de interfaces gráficas hasta la implementación de sistemas de pago con QR en el transporte público. Aprecio la calidad y la excelencia en cada línea de código que escribo.
+Soy un estudiante de Ingeniería de Sistemas en el 7° semestre, entusiasta del desarrollo de software y la tecnología. Mi enfoque está en crear aplicaciones funcionales y de alta calidad, con un compromiso firme hacia el aprendizaje y la mejora continua. En mis proyectos, busco optimizar procesos y aportar soluciones que hagan la vida de los usuarios más fácil.
 
-> En mi tiempo libre, desarrollo proyectos de código abierto, exploro nuevas tecnologías y colaboro con la comunidad para fomentar el aprendizaje y la innovación en tecnología.
+> Me encanta explorar nuevas herramientas y lenguajes de programación, y colaborar con la comunidad para mejorar mis habilidades y contribuir al desarrollo de la tecnología.
 
 ---
 
@@ -22,8 +22,8 @@ Soy un estudiante de Ingeniería de Sistemas en el 7° semestre, motivado por la
 - **Frameworks y Librerías:** React, Node.js
 - **Bases de Datos:** SQL Server, MySQL
 - **Control de Versiones:** Git
-- **Desarrollo de Proyectos:** Interfaces gráficas, sistemas de pago con QR, automatización y organización de archivos
-- **Otros Conocimientos:** Diseño UX/UI, arquitectura de software
+- **Desarrollo de Proyectos:** Interfaces gráficas, automatización de archivos, aplicaciones web
+- **Otros Conocimientos:** Diseño UX/UI, arquitectura de software, desarrollo de sistemas de pago
 
 ---
 
@@ -31,57 +31,54 @@ Soy un estudiante de Ingeniería de Sistemas en el 7° semestre, motivado por la
 
 ### Metatech (Proyecto: OrganizadorDeArchivos)  
 *Desarrollador y Automatizador*  
-- Implementé una solución para organizar automáticamente archivos en carpetas específicas y eliminar carpetas vacías, optimizando la gestión documental en entornos empresariales.
+- Desarrollé una herramienta para organizar archivos de forma automática, clasificando y eliminando carpetas vacías. Esta solución optimiza la gestión documental en entornos empresariales, mejorando la productividad y la organización.
 
-### ViajeExpress (Sistema de Pago en Transporte Público con QR)  
-*Desarrollador de Sistemas de Pago y Movilidad Urbana*  
-- Desarrollé un sistema de pago mediante QR para buses, integrando hardware y software, con una cámara para escanear y validar pagos. Contribuí a mejorar la movilidad urbana en Tunja, Colombia.
+### Colaboración en Proyectos de Código Abierto  
+*Contribuidor de la Comunidad*  
+- Participo activamente en la comunidad de código abierto, desarrollando herramientas y compartiendo recursos que ayudan a otros desarrolladores en su crecimiento y aprendizaje.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
 - **[Metatech Components](https://github.com/metatech/organizadorDeArchivos):**  
-  Sistema avanzado de organización de archivos con automatización para clasificación y limpieza de carpetas vacías, ideal para entornos empresariales.
+  Sistema avanzado de organización de archivos con automatización para clasificación y limpieza de carpetas vacías, ideal para mejorar la gestión documental en empresas.
 
 - **[Recursos Dev](https://github.com/metatech/recursos-dev):**  
-  Repositorio de recursos esenciales para desarrolladores, con tutoriales y documentación.
-
-- **[TuExpresTunja](https://github.com/metatech/tuExpresTunja):**  
-  Plataforma de pago digital para transporte público mediante QR, con un torniquete controlado electrónicamente.
+  Un repositorio colaborativo con recursos, tutoriales y documentación de utilidad para desarrolladores en distintas etapas de su carrera.
 
 - **[RecordingScreenOnline](https://github.com/metatech/recordingScreenOnline):**  
-  Aplicación web para grabación de pantalla en el navegador, ideal para crear tutoriales sin necesidad de descargas.
+  Aplicación web para grabación de pantalla directamente en el navegador, sin necesidad de descargar software adicional, ideal para crear tutoriales y presentaciones.
 
 - **[Solveer](https://github.com/metatech/solveer):**  
-  Proyecto de IA que resuelve automáticamente el juego de Minesweeper, combinando inteligencia artificial con UX.
+  Proyecto que aplica inteligencia artificial para resolver automáticamente el juego de Minesweeper, integrando lógica de IA y una experiencia de usuario intuitiva.
 
 ---
 
 ## 🏆 Logros
 
-- **Incremento de Eficiencia en Transporte Público:** Implementación de un sistema de pago con QR, optimizando la validación de pagos en transporte.
-- **Organización Documental Automatizada:** Desarrollo de un sistema de automatización de archivos para Metatech, incrementando la productividad.
+- **Optimización en Gestión Documental:** Implementación de un sistema automatizado para organización de archivos, incrementando la eficiencia en Metatech.
+- **Contribuciones Activas en Código Abierto:** Colaboraciones en proyectos de la comunidad para mejorar herramientas y recursos para desarrolladores.
 
 ---
 
 ## 📊 Métricas de Impacto
 
 - **Proyectos en GitHub:** 15+ repositorios públicos
-- **Contribuciones en 2024:** Más de 300 contribuciones, demostrando compromiso con la comunidad de software
+- **Contribuciones en 2024:** Más de 300 contribuciones, demostrando un fuerte compromiso con la comunidad de desarrollo de software
 
 ---
 
 ## 🌍 Otros Intereses
 
-Exploro cómo la tecnología puede transformar servicios cotidianos como el transporte, y mi objetivo es continuar aprendiendo, aplicando y compartiendo conocimientos para desarrollar soluciones innovadoras que mejoren la vida de las personas.
+Mi interés principal radica en cómo la tecnología puede facilitar tareas diarias, simplificar procesos complejos y mejorar la experiencia del usuario. Estoy en constante búsqueda de nuevas ideas para implementar y aprender, con la meta de desarrollar soluciones que impacten de manera positiva en la vida de las personas.
 
 ---
 
 ## 📞 Contáctame
 
-¡Estoy abierto a nuevas oportunidades y colaboraciones! Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/alexander-aguilar-torres-742919273) o ver más de mis proyectos en [mi portafolio](https://santiago-portafolio.vercel.app/).
+Estoy abierto a colaborar en proyectos y explorar nuevas oportunidades. Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/alexander-aguilar-torres-742919273) o explorar más sobre mi trabajo en [mi portafolio](https://santiago-portafolio.vercel.app/).
 
 ---
 
-*Gracias por visitar mi perfil. ¡Vamos a construir algo grandioso juntos!*
+*¡Gracias por visitar mi perfil! Estoy emocionado por conectar y colaborar contigo en futuros proyectos.*
