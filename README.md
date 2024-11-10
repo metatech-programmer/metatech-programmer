@@ -3,8 +3,8 @@
 **¡Bienvenido a mi perfil!**  
 Soy un estudiante de Ingeniería de Sistemas con pasión por el desarrollo de software y la innovación tecnológica. Con una base sólida en programación y experiencia en proyectos de código abierto, me enfoco en crear soluciones efectivas y en constante evolución. Valoro la calidad, el aprendizaje continuo y la colaboración dentro de la comunidad tecnológica.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-aguilar-torres-742919273)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=web&logoColor=white)](https://santiago-portafolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-alexander-aguilar-torres-74a729137?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=web&logoColor=white)](https://santiagotorres-web-developer.netlify.app/)
 
 ---
 
@@ -77,7 +77,7 @@ Mi interés principal radica en cómo la tecnología puede facilitar tareas diar
 
 ## 📞 Contáctame
 
-Estoy abierto a colaborar en proyectos y explorar nuevas oportunidades. Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/alexander-torres-74a729137?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) o explorar más sobre mi trabajo en [mi portafolio](https://santiagotorres-web-developer.netlify.app/).
+Estoy abierto a colaborar en proyectos y explorar nuevas oportunidades. Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/santiago-alexander-aguilar-torres-74a729137?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) o explorar más sobre mi trabajo en [mi portafolio](https://santiagotorres-web-developer.netlify.app/).
 
 ---
 
