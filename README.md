@@ -25,11 +25,11 @@ Con una sólida base en Ingeniería de Sistemas (actualmente en 7° semestre), e
 
 ## 📌 Proyectos Destacados
 
-- **OrganizadorDeArchivos**: Una herramienta eficiente para organizar archivos y eliminar carpetas vacías en rutas específicas, facilitando la gestión de archivos en sistemas complejos. [Repositorio](https://github.com/MetatechProgrammer/OrganizadorDeArchivos)
+- **OrganizadorDeArchivos**: Una herramienta eficiente para organizar archivos y eliminar carpetas vacías en rutas específicas, facilitando la gestión de archivos en sistemas complejos. [Repositorio]([https://github.com/metatech-programmer/organizer](https://github.com/metatech-programmer/organizer))
 
-- **MentorshipOnline**: Plataforma diseñada para la gestión de mentorías en línea, optimizando la experiencia tanto para mentores como para aprendices. [Repositorio](https://github.com/MetatechProgrammer/mentorshipOnline)
+- **MentorshipOnline**: Plataforma diseñada para la gestión de mentorías en línea, optimizando la experiencia tanto para mentores como para aprendices. [Repositorio]([https://github.com/metatech-programmer/mentorshipOnline](https://github.com/metatech-programmer/mentorshipOnline))
 
-- **Recursos Dev**: Repositorio de recursos esenciales para desarrolladores, centrado en materiales educativos y herramientas útiles. [Repositorio](https://github.com/MetatechProgrammer/recursos-dev)
+- **Recursos Dev**: Repositorio de recursos esenciales para desarrolladores, centrado en materiales educativos y herramientas útiles. [Repositorio]([https://github.com/MetatechProgrammer/recursos-dev](https://github.com/metatech-programmer/recursos-dev))
 
 ---
 
