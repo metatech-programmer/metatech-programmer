@@ -11,9 +11,16 @@ Estudiante de ultimos semestres de Ingeniería de Sistemas, enfocado en el desar
 
 ---
 
+
 ## 🌟 Sobre el Desarrollador
 
 Con una sólida base en Ingeniería de Sistemas, el enfoque está en el desarrollo de aplicaciones eficientes y funcionales, adaptadas a las necesidades de los usuarios. La búsqueda constante de aprendizaje y mejora continua define su estilo de trabajo, combinada con la habilidad para colaborar efectivamente en equipo y adaptarse a nuevos retos. Además, es un contribuidor activo en proyectos de código abierto y miembro comprometido de la comunidad tecnológica.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metatech-programmer&theme=dark" alt="GitHub streak stats" />
+</p>
 
 ---
 
@@ -91,14 +98,6 @@ Comprometido con la mejora constante y el desarrollo de habilidades en tecnolog�
 ---
 
 Para conocer más detalles sobre los proyectos y trayectoria, visita su perfil en [LinkedIn](https://www.linkedin.com/in/santiago-alexander-aguilar-torres-74a729137?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) o explora más sobre su trabajo en [su portafolio](https://santiagotorres-web-developer.netlify.app/).
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metatech-programmer&theme=dark%22%20alt=%22GitHub%20streak%20stats" alt="GitHub streak stats" />
-</p>
-
----
 
 <div align="center">
   <img src="https://i.redd.it/eksr96f6wik71.gif" alt="coding gif" width="500" />
