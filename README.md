@@ -1,7 +1,7 @@
 # 💻 Junior Developer & Innovator
 
 
-Estudiante de Ingeniería de Sistemas, enfocado en el desarrollo de software y en proyectos de código abierto. Se destaca por su dedicación a la excelencia y su impulso hacia la creación de soluciones innovadoras que aporten un valor significativo en el ámbito tecnológico.
+Estudiante de ultimos semestres de Ingeniería de Sistemas, enfocado en el desarrollo de software y en proyectos de código abierto. Se destaca por su dedicación a la excelencia y su impulso hacia la creación de soluciones innovadoras que aporten un valor significativo en el ámbito tecnológico.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-alexander-aguilar-torres-74a729137?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=web&logoColor=white)](https://santiagotorres-web-developer.netlify.app/)
@@ -10,7 +10,7 @@ Estudiante de Ingeniería de Sistemas, enfocado en el desarrollo de software y e
 
 ## 🌟 Sobre el Desarrollador
 
-Con una sólida base en Ingeniería de Sistemas (actualmente en 7° semestre), el enfoque está en el desarrollo de aplicaciones eficientes y funcionales, adaptadas a las necesidades de los usuarios. La búsqueda constante de aprendizaje y mejora continua define su estilo de trabajo, combinada con la habilidad para colaborar efectivamente en equipo y adaptarse a nuevos retos. Además, es un contribuidor activo en proyectos de código abierto y miembro comprometido de la comunidad tecnológica.
+Con una sólida base en Ingeniería de Sistemas, el enfoque está en el desarrollo de aplicaciones eficientes y funcionales, adaptadas a las necesidades de los usuarios. La búsqueda constante de aprendizaje y mejora continua define su estilo de trabajo, combinada con la habilidad para colaborar efectivamente en equipo y adaptarse a nuevos retos. Además, es un contribuidor activo en proyectos de código abierto y miembro comprometido de la comunidad tecnológica.
 
 ---
 
