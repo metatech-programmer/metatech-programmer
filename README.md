@@ -114,16 +114,16 @@ Para conocer más detalles sobre los proyectos y trayectoria, visita su perfil e
 
 <div align="center">
   <a href="https://www.linkedin.com/in/santiago-alexander-aguilar-torres-74a729137/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="81" height="31" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@metatech000" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="81" height="31" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="youtube logo"  />
   </a>
   <a href="matetch000@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="81" height="31" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/__santiagoag__/?hl=es-la" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="81" height="31" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
   </a>
 </div>
 
