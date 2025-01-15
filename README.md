@@ -19,7 +19,7 @@ Con una sólida base en Ingeniería de Sistemas, el enfoque está en el desarrol
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metatech-programmer&theme=dark" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metatech-programmer&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub streak stats" />
 </p>
 
 ---
@@ -100,7 +100,7 @@ Comprometido con la mejora constante y el desarrollo de habilidades en tecnolog�
 Para conocer más detalles sobre los proyectos y trayectoria, visita su perfil en [LinkedIn](https://www.linkedin.com/in/santiago-alexander-aguilar-torres-74a729137?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) o explora más sobre su trabajo en [su portafolio](https://santiagotorres-web-developer.netlify.app/).
 
 <div align="center">
-  <img src="https://i.redd.it/eksr96f6wik71.gif" alt="coding gif" width="500" />
+  <img src="https://i.redd.it/eksr96f6wik71.gif" alt="coding gif" width="100%" />
 </div>
 
 ---
