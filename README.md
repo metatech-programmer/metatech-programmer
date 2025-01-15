@@ -120,7 +120,7 @@ Para conocer más detalles sobre los proyectos y trayectoria, visita su perfil e
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metatech-programmer&theme=dark" alt="GitHub streak stats" />
 </p>
 
 ---
