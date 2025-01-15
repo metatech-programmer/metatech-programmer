@@ -6,7 +6,7 @@ Estudiante de ultimos semestres de Ingeniería de Sistemas, enfocado en el desar
   [![Portafolio](https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=web&logoColor=white)](https://santiagotorres-web-developer.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-alexander-aguilar-torres-74a729137/)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@metatech000)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matetch000@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagoaguilart0@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__santiagoag__/)
 
 ---
