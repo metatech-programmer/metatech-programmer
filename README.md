@@ -54,7 +54,7 @@ Soy un desarrollador apasionado por crear soluciones escalables y **romperlas pa
 - **Stack:** Node.js, JavaScript, Criptografía.
 - **Seguridad:** Implementación de encriptación AES para almacenamiento local seguro y protección de datos sensibles.
 
-#### 🗣️ [Confiésate USTA](https://github.com/metatech-programmer/confiesate)
+#### 🗣️ [Confiésate USTA](https://confiesate.vercel.app/)
 *Red social anónima para comunidad universitaria.*
 - **Stack:** Full Stack TypeScript (React + Node.js).
 - **Enfoque:** Moderación de contenido y arquitectura escalable para alto tráfico concurrente.
