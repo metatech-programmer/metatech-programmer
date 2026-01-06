@@ -44,7 +44,7 @@ Soy un desarrollador apasionado por crear soluciones escalables y **romperlas pa
 - **Reto:** Gestión de estado complejo y lógica de negocio para control de stock en tiempo real.
 - **QA:** Implementación de validaciones estrictas de tipos para prevenir errores en runtime.
 
-#### 🚌 [ViajeExpress App](https://github.com/metatech-programmer/viajeExpressApp) [ViajeExpress Web](https://github.com/metatech-programmer/viejaeexpress)
+#### 🚌 [ViajeExpress App](https://github.com/metatech-programmer/viajeExpressApp) |  [ViajeExpress Web](https://github.com/metatech-programmer/viejaeexpress)
 *Solución de pagos para transporte público con conectividad intermitente.*
 - **Stack:** React Native, PostgreSQL, Node.js.
 - **Highlight:** Arquitectura **Offline-First**. Sincronización de datos asíncrona cuando la red se recupera.
