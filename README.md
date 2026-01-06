@@ -134,7 +134,7 @@ Full stack TypeScript application with real-time content moderation and scalable
 - **Stack:** React 18 + TypeScript + Node.js + Express + PostgreSQL
 - **Features:** JWT Authentication, Real-time updates, Content moderation, Anonymous posting
 - **Metrics:** 100+ active users, 95% uptime, <200ms average response time
-- **Deployed:** Vercel (Frontend) + Render (Backend)
+- **Deployed:** Vercel (Frontend) + Vercel (Backend)
 
 **🔑 Key Technical Achievements:**
 - Implemented secure authentication with JWT and bcrypt for user management
