@@ -1,141 +1,76 @@
-# 👋 Hi, I'm Santiago Aguilar  
-Frontend Engineer | Full Stack Developer | QA Automation (Junior–Mid)
+# Hola, soy Santiago Aguilar (MetaTech) 👋
+### Ingeniero de Sistemas en Formación | Full Stack Developer | QA Enthusiast
 
-I am a **Frontend-focused Software Engineer** with solid Full Stack foundations, currently in the final semesters of a **BSc in Systems Engineering**. I build **scalable, high-performance web applications and SaaS MVPs**, with a strong focus on **clean code, performance, and real-world problem solving**.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-alexander-aguilar-torres-74a729137)
+[![Portfolio Badge](https://img.shields.io/badge/-Portafolio-000?style=flat&logo=Vercel&logoColor=white)](https://santiagotorres-web-developer.netlify.app/)
 
-I enjoy working close to the product, collaborating in Agile teams, and continuously improving both technical and quality aspects of software.
+Soy un desarrollador apasionado por crear soluciones escalables y **romperlas para hacerlas mejores**. Como futuro Ingeniero de Sistemas, combino la arquitectura de software robusta con estrategias modernas de desarrollo web y aseguramiento de calidad (QA).
 
----
-
-## 🔗 Connect with me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://santiagotorres-web-developer.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-alexander-aguilar-torres-74a729137/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagoaguilart0@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@metatech000)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__santiagoag__/)
+🔭 **Actualmente:**
+- Finalizando Ingeniería de Sistemas (Grado: 2026).
+- Especializándome en el ecosistema **Node.js, React & TypeScript**.
+- Implementando estrategias de **Testing Automatizado**.
 
 ---
 
-## 🚀 About Me
+### 🛠️ Tech Stack & Herramientas
 
-I have hands-on experience developing **frontend, backend, and quality-driven solutions** using modern technologies. My background combines **software engineering fundamentals**, **product-oriented thinking**, and **continuous learning**.
+**Core & Backend:**
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-I am especially interested in:
-- Frontend engineering with **React & TypeScript**
-- Full Stack development with **Java (Spring Boot)**
-- **QA Automation / SDET** practices
-- Performance optimization and clean architecture
+**Frontend & Mobile:**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metatech-programmer&theme=dark&locale=en" alt="GitHub streak stats" />
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 🔧 Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
-
-### 🎨 Frontend & UI
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### 🧪 QA, DevOps & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+**QA & DevOps:**
+![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=flat&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 📌 Featured Projects
+### 🚀 Proyectos Destacados
 
-## 🔹 Confiesate
+#### 🛒 [TusPins Tunja (E-commerce B2B)](https://github.com/metatech-programmer/TusPinsTunja)
+*Plataforma de gestión de inventario y ventas.*
+- **Stack:** React, TypeScript, Node.js (Migración en proceso), PostgreSQL.
+- **Reto:** Gestión de estado complejo y lógica de negocio para control de stock en tiempo real.
+- **QA:** Implementación de validaciones estrictas de tipos para prevenir errores en runtime.
 
-Web application that allows users to share anonymous messages in a safe and minimalistic environment.
+#### 🚌 [ViajeExpress (Offline-First)](https://github.com/metatech-programmer/viajeExpressApp)
+*Solución de pagos para transporte público con conectividad intermitente.*
+- **Stack:** React Native, SQLite, Node.js.
+- **Highlight:** Arquitectura **Offline-First**. Sincronización de datos asíncrona cuando la red se recupera.
 
-### 🚀 Live Demo
-👉 https://confiesate.vercel.app/
+#### 🔐 [WishGirlfriend (Seguridad & Privacidad)](https://github.com/metatech-programmer/wishGirlfriend)
+*Aplicación social con enfoque en privacidad.*
+- **Stack:** Node.js, JavaScript, Criptografía.
+- **Seguridad:** Implementación de encriptación AES para almacenamiento local seguro y protección de datos sensibles.
 
-### 🛠 Tech Stack
-- React
-- TypeScript
-- Tailwind CSS
-- Vercel
-
-### ✨ Key Features
-- Anonymous message submission
-- Responsive UI
-- Clean and intuitive UX
-- Production deployment
-
-### 📌 Purpose
-Project built to practice modern frontend development, UX principles, and real-world deployment.
-
-### 🔹 SekPos – Restaurant Management SaaS
-**React | Spring Boot | PostgreSQL**  
-Production-oriented SaaS MVP for restaurant operations.
-
-- Frontend–backend integration
-- Real-world business workflows
-- Clean code and maintainability focus
+#### 🗣️ [Confiésate USTA](https://github.com/metatech-programmer/confiesate)
+*Red social anónima para comunidad universitaria.*
+- **Stack:** Full Stack TypeScript (React + Node.js).
+- **Enfoque:** Moderación de contenido y arquitectura escalable para alto tráfico concurrente.
 
 ---
 
-### 🔹 ViajeExpress – Offline-First QR Payment System
-**React Native | Node.js | SQLite**
+### 📊 GitHub Stats
 
-- Offline transaction validation
-- QR-based asynchronous payments
-- Designed for low-connectivity environments
-- Presented at **5+ engineering conferences (2024–2025)**
-
----
-
-### 🔹 MentorshipOnline – Mentorship Management Platform
-Web platform for managing online mentorship programs.
-
-- Role-based flows (mentors & mentees)
-- Modular and scalable architecture
-- Focus on usability and maintainability
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=metatech-programmer&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metatech-programmer&layout=compact&theme=omni&langs_count=8"/>
+</div>
 
 ---
 
-## 🎯 Current Goals
-
-- Strengthen **Frontend Engineering** expertise (React + TypeScript)
-- Build **production-ready Full Stack projects**
-- Improve **QA Automation and testing strategies**
-- Prepare for **remote international opportunities**
-
----
-
-## 🌍 Languages
-- Spanish: Native  
-- English: Intermediate (B1–B2)
-
----
-
-⭐ Feel free to explore my repositories and reach out if you'd like to collaborate or discuss opportunities.
+<div align="center">
+  <sub>Construyendo el futuro, línea a línea.</sub><br>
+  <a href="mailto:santiagoaguilart0@gmail.com">Contáctame por Email</a>
+</div>
