@@ -46,7 +46,7 @@ Soy un desarrollador apasionado por crear soluciones escalables y **romperlas pa
 
 #### 🚌 [ViajeExpress (Offline-First)](https://github.com/metatech-programmer/viajeExpressApp)
 *Solución de pagos para transporte público con conectividad intermitente.*
-- **Stack:** React Native, SQLite, Node.js.
+- **Stack:** React Native, PostgreSQL, Node.js.
 - **Highlight:** Arquitectura **Offline-First**. Sincronización de datos asíncrona cuando la red se recupera.
 
 #### 🔐 [WishGirlfriend (Seguridad & Privacidad)](https://github.com/metatech-programmer/wishGirlfriend)
