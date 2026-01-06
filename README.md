@@ -72,6 +72,28 @@ I am especially interested in:
 
 ## 📌 Featured Projects
 
+## 🔹 Confiesate
+
+Web application that allows users to share anonymous messages in a safe and minimalistic environment.
+
+### 🚀 Live Demo
+👉 https://confiesate.vercel.app/
+
+### 🛠 Tech Stack
+- React
+- TypeScript
+- Tailwind CSS
+- Vercel
+
+### ✨ Key Features
+- Anonymous message submission
+- Responsive UI
+- Clean and intuitive UX
+- Production deployment
+
+### 📌 Purpose
+Project built to practice modern frontend development, UX principles, and real-world deployment.
+
 ### 🔹 SekPos – Restaurant Management SaaS
 **React | Spring Boot | PostgreSQL**  
 Production-oriented SaaS MVP for restaurant operations.
