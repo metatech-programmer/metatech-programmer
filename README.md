@@ -129,82 +129,117 @@ Quality assurance experience:
 ### 🗣️ [Confiésate USTA](https://confiesate.vercel.app/)
 **Anonymous Social Network for University Community**
 
-Full stack TypeScript application with real-time content moderation and scalable architecture.
+Full stack TypeScript application with real-time content moderation and scalable architecture for university students to share anonymous confessions.
 
 - **Stack:** React 18 + TypeScript + Node.js + Express + PostgreSQL
-- **Features:** JWT Authentication, Real-time updates, Content moderation
+- **Features:** JWT Authentication, Real-time updates, Content moderation, Anonymous posting
 - **Metrics:** 100+ active users, 95% uptime, <200ms average response time
 - **Deployed:** Vercel (Frontend) + Render (Backend)
 
 **🔑 Key Technical Achievements:**
-- Implemented secure authentication with JWT and bcrypt
-- Designed PostgreSQL schema optimized for high-traffic queries
-- Created responsive UI with Tailwind CSS (mobile-first approach)
-- Integrated CI/CD pipeline with GitHub Actions
+- Implemented secure authentication with JWT and bcrypt for user management
+- Designed PostgreSQL schema optimized for high-traffic queries and real-time content
+- Created fully responsive UI with Tailwind CSS using mobile-first approach
+- Integrated CI/CD pipeline with GitHub Actions for automated deployments
+- Built moderation system for content filtering and user safety
 
 ---
 
-### 🚌 [ViajeExpress - App](https://github.com/metatech-programmer/viajeExpressApp) | [ViajeExpress - Web](https://github.com/metatech-programmer/viejaeexpress) 
+### 🚌 [ViajeExpress - Mobile App](https://github.com/metatech-programmer/viajeExpressApp) | [ViajeExpress - Web Platform](https://github.com/metatech-programmer/viejaeexpress) 
 **Offline-First Payment System for Public Transport**
 
-Mobile application solving connectivity issues in public transportation with QR-based payments.
+Innovative mobile and web solution solving connectivity issues in public transportation with QR-based payments that work without internet connection.
 
-- **Stack:** React Native + Node.js + PostgreSQL
-- **Architecture:** Offline-First with async data synchronization
+- **Stack:** React Native + Node.js + PostgreSQL + SQLite (mobile) | React + Node.js (web)
+- **Architecture:** Offline-First with async data synchronization when connection is restored
 - **Impact:** Presented at 5+ engineering conferences (2024-2025)
+- **Recognition:** Award-winning project at regional innovation competitions
 
 **🔑 Technical Highlights:**
-- Designed asynchronous payment validation protocol (works without internet)
-- Implemented database with PostgreSQL cloud sync
-- QR code generation and validation system
-- Data encryption for sensitive payment information
+- Designed asynchronous payment validation protocol that works completely offline
+- Implemented local SQLite database with cloud PostgreSQL synchronization
+- Built QR code generation and validation system for ticket purchases
+- Applied AES encryption for sensitive payment information
+- Created conflict resolution algorithm for offline-to-online data sync
 
 ---
 
-### 🛒 [TusPinsTunja E-commerce - React](https://github.com/metatech-programmer/TusPinsTunja) | [TusPinsTunja E-commerce - Spring Boot](https://github.com/metatech-programmer/pins)
-**B2B Inventory Management Platform**
+### 🛒 [TusPinsTunja E-commerce](https://github.com/metatech-programmer/TusPinsTunja)
+**B2B Inventory Management Platform - Two Versions**
 
-E-commerce platform with real-time inventory and automated order processing.
+Complete e-commerce solution with real-time inventory management and automated order processing for B2B sales. Built in two versions for different business needs.
 
-- **Stack:** React + TypeScript |  Spring Boot + PostgreSQL
-- **Current Version:** Frontend React + Local Storage 
-- **Before Version:** Spring Boot + Java + PostgreSQL
+**Version 1 - Enterprise (Spring Boot):** [Backend Repo](https://github.com/metatech-programmer/pins)
+- **Stack:** Spring Boot + Java + PostgreSQL + Cloud Storage + WhatsApp API Integration
+- **Features:** Full backend API, Cloud image storage, B2B WhatsApp order notifications
+- **Scale:** Handles 500+ concurrent transactions with database optimization
 - **Business Impact:** 30% increase in sales conversion, 100% order automation
 
-**🔑 Features:**
-- Real-time inventory management with stock alerts
-- RESTful API for order processing (500+ concurrent transactions)
-- Admin dashboard with analytics and reporting
-- Responsive design for mobile and desktop
+**Version 2 - Lightweight (Frontend-First):**
+- **Stack:** React + TypeScript + Local Storage + JSON-based products
+- **Features:** Client-side product management, Local image storage, Quick deployment
+- **Use Case:** Simplified version for rapid MVP testing and demonstrations
+- **Performance:** Faster initial load, works offline, no server costs
+
+**🔑 Shared Features:**
+- Real-time inventory management with automatic stock alerts
+- Admin dashboard with analytics, reporting, and sales metrics
+- Fully responsive design optimized for mobile and desktop
+- Product catalog with search, filters, and category organization
+- Shopping cart with order summary and checkout flow
+
+**🔧 Technical Decisions:**
+- **Version 1 (Enterprise):** Production-ready with robust backend, database persistence, and third-party integrations for scaling B2B operations
+- **Version 2 (Lightweight):** Quick-to-deploy frontend solution with JSON data source, ideal for testing and smaller-scale operations
 
 ---
 
 ### 📅 [TimeSchedule PWA](https://github.com/metatech-programmer/time-schedule)
 **Progressive Web App for Task Management**
 
-Offline-first task scheduler with advanced PWA capabilities.
+Offline-first task scheduler demonstrating advanced PWA capabilities and modern web standards.
 
 - **Stack:** Vanilla JavaScript + Service Workers + IndexedDB + Cache API
 - **Performance:** Lighthouse score 95+ (Performance), 100 (Accessibility)
 - **Users:** 100+ active users leveraging offline functionality
+- **Installable:** Works as standalone app on mobile and desktop
 
 **🔑 PWA Features:**
-- Service Workers for offline asset caching
-- IndexedDB for local data persistence
-- Full functionality without network connection
-- Installable on mobile and desktop
+- Service Workers for intelligent offline asset caching
+- IndexedDB for persistent local data storage
+- Full task management functionality without network connection
+- Responsive design with native app-like experience
+- Background sync for data updates when reconnecting
+
+---
+
+### 🔐 [WishGirlfriend](https://github.com/metatech-programmer/wishGirlfriend)
+**Privacy-Focused Social Application**
+
+Social platform with emphasis on user privacy and data security, implementing end-to-end encryption for sensitive information.
+
+- **Stack:** Node.js + Express + PostgreSQL + AES Encryption
+- **Security Focus:** Data encryption, OWASP protection (SQL Injection, XSS)
+- **Architecture:** Privacy-first design with encrypted local storage
+
+**🔑 Security Implementations:**
+- AES encryption for sensitive user data at rest
+- Protection against common vulnerabilities (OWASP Top 10)
+- Secure authentication and session management
+- Input validation and sanitization
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=metatech-programmer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metatech-programmer&layout=compact&theme=tokyonight&langs_count=8"/>
-</div>
+  
+![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=metatech-programmer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metatech-programmer&theme=tokyonight" alt="GitHub Streak" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metatech-programmer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=metatech-programmer&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
@@ -213,7 +248,7 @@ Offline-first task scheduler with advanced PWA capabilities.
 
 ```diff
 + Building production-ready showcase project (PERN stack + tests + CI/CD)
-+ Advancing testing skills: Jest (unit) + Cypress (E2E)
++ Advancing testing skills: Jest (unit testing) + Cypress (E2E testing)
 + Pursuing Master's in Software Engineering (UNIR, Spain - starts March 2026)
 + Open to Full Stack, Frontend, and QA opportunities (remote-friendly)
 ```
@@ -222,15 +257,22 @@ Offline-first task scheduler with advanced PWA capabilities.
 
 ## 📈 Professional Experience
 
-**🏢 Full Stack Developer** @ Trébol Colombia S.A.S. *(Jun 2025 - Oct 2025)*
-- Built reusable React component library (15+ components) cutting duplicate code by 35%
-- Configured basic CI/CD pipeline with GitHub Actions (deployment time: 45min → 12min)
+**🏢 Frontend Developer (Web Developer)** @ Trébol Colombia S.A.S. *(Apr 2025 - Oct 2025)*
 
-**🏢 Frontend Developer Intern** @ Trébol Colombia S.A.S. *(Apr 2025 - May 2025)*
-- Reduced initial load time (FCP) by 60% using lazy loading and server-side pagination
-- Refactored monolithic components into atomic UI library (React + TypeScript)
-- Collaborated with backend team in Agile/Kanban methodology
-- Identified and documented 50+ bugs during development phase
+Specialized in frontend development and UI/UX implementation for SaaS platform in restaurant industry.
+
+**Key Responsibilities & Achievements:**
+- Built reusable React component library (15+ components) reducing duplicate code by 35%
+- Reduced initial page load time (FCP) by 60% implementing lazy loading and server-side pagination
+- Refactored monolithic components into atomic UI library following design system principles
+- Created responsive layouts with Tailwind CSS ensuring mobile-first approach
+- Integrated RESTful APIs with proper error handling and loading states
+- Collaborated closely with backend team to build scalable application architecture
+- Identified and documented 50+ bugs during development and testing phases
+- Worked in Agile/Kanban methodology with daily standups and sprint planning
+- Configured basic CI/CD pipeline with GitHub Actions reducing deployment time from 45min to 12min
+
+**Tech Stack:** React 18, TypeScript, Tailwind CSS, REST APIs, Git, GitHub Actions, Agile/Kanban
 
 ---
 
