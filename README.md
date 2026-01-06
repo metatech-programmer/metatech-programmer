@@ -126,7 +126,7 @@ Quality assurance experience:
 
 ## 🌟 Featured Projects
 
-### 🗣️ [Confiésate USTA](https://confiesate.vercel.app/) | [Frontend Repo](https://github.com/metatech-programmer/confiesate-client) | [Backend Repo](https://github.com/metatech-programmer/confiesate-server)
+### 🗣️ [Confiésate USTA](https://confiesate.vercel.app/)
 **Anonymous Social Network for University Community**
 
 Full stack TypeScript application with real-time content moderation and scalable architecture.
@@ -144,31 +144,31 @@ Full stack TypeScript application with real-time content moderation and scalable
 
 ---
 
-### 🚌 [ViajeExpress](https://github.com/metatech-programmer/viajeExpressApp) 
+### 🚌 [ViajeExpress - App](https://github.com/metatech-programmer/viajeExpressApp) | [ViajeExpress - Web](https://github.com/metatech-programmer/viejaeexpress) 
 **Offline-First Payment System for Public Transport**
 
 Mobile application solving connectivity issues in public transportation with QR-based payments.
 
-- **Stack:** React Native + Node.js + PostgreSQL + SQLite
+- **Stack:** React Native + Node.js + PostgreSQL
 - **Architecture:** Offline-First with async data synchronization
 - **Impact:** Presented at 5+ engineering conferences (2024-2025)
-- **Recognition:** Winner at regional innovation hackathon
 
 **🔑 Technical Highlights:**
 - Designed asynchronous payment validation protocol (works without internet)
-- Implemented local SQLite database with PostgreSQL cloud sync
+- Implemented database with PostgreSQL cloud sync
 - QR code generation and validation system
 - Data encryption for sensitive payment information
 
 ---
 
-### 🛒 [TusPinsTunja E-commerce](https://github.com/metatech-programmer/TusPinsTunja)
+### 🛒 [TusPinsTunja E-commerce - React](https://github.com/metatech-programmer/TusPinsTunja) | [TusPinsTunja E-commerce - Spring Boot](https://github.com/metatech-programmer/pins)
 **B2B Inventory Management Platform**
 
-E-commerce platform with real-time inventory tracking and automated order processing.
+E-commerce platform with real-time inventory and automated order processing.
 
-- **Stack:** React + TypeScript + Node.js + PostgreSQL (migration in progress)
-- **Current Version:** Frontend React + Backend transitioning from Java to Node.js
+- **Stack:** React + TypeScript |  Spring Boot + PostgreSQL
+- **Current Version:** Frontend React + Local Storage 
+- **Before Version:** Spring Boot + Java + PostgreSQL
 - **Business Impact:** 30% increase in sales conversion, 100% order automation
 
 **🔑 Features:**
@@ -223,8 +223,6 @@ Offline-first task scheduler with advanced PWA capabilities.
 ## 📈 Professional Experience
 
 **🏢 Full Stack Developer** @ Trébol Colombia S.A.S. *(Jun 2025 - Oct 2025)*
-- Developed MVP of SaaS platform (SekPos) for restaurant industry using PERN stack
-- Optimized PostgreSQL queries reducing API response time by 45%
 - Built reusable React component library (15+ components) cutting duplicate code by 35%
 - Configured basic CI/CD pipeline with GitHub Actions (deployment time: 45min → 12min)
 
