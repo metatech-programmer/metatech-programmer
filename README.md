@@ -38,7 +38,7 @@ Soy un desarrollador apasionado por crear soluciones escalables y **romperlas pa
 
 ### 🚀 Proyectos Destacados
 
-#### 🛒 [TusPins Tunja (E-commerce B2B)](https://github.com/metatech-programmer/TusPinsTunja)
+#### 🛒 [TusPins Tunja (E-commerce B2B - React)](https://github.com/metatech-programmer/TusPinsTunja) | [TusPins Tunja (E-commerce B2B - Spring Boot)](https://github.com/metatech-programmer/pins)
 *Plataforma de gestión de inventario y ventas.*
 - **Stack:** React, TypeScript, Node.js (Migración en proceso), PostgreSQL.
 - **Reto:** Gestión de estado complejo y lógica de negocio para control de stock en tiempo real.
