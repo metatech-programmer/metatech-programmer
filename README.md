@@ -1,101 +1,43 @@
-# Hi there, I'm Santiago Aguilar 👨‍💻
-
 <div align="center">
-  
-### Full Stack Developer | Frontend Specialist | QA Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-alexander-aguilar-torres-74a729137)
+# 👋 Hola, soy Santiago Aguilar Torres
+
+### Ingeniero de Sistemas · Full-Stack Developer · Investigador & Ponente Internacional
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoaguilartorres-fullstack)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://santiagotorres-web-developer.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagoaguilart0@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metatech-programmer)
+
+![Profile Views](https://komarev.com/ghpvc/?username=metatech-programmer&color=6366f1&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-Systems Engineering student graduating in 2026, specializing in modern web development with **1+ year of professional experience** building production-ready applications. I focus on creating scalable solutions with clean architecture, performance optimization, and quality assurance.
+Soy **Ingeniero de Sistemas** (Universidad Santo Tomás – Tunja, Colombia), con experiencia en desarrollo **Full-Stack** construyendo plataformas SaaS, sistemas de pago digitales y aplicaciones móviles con impacto real.
 
-```typescript
+He participado como **ponente en más de 6 congresos internacionales** de ingeniería, presentando proyectos de innovación tecnológica aplicada a movilidad urbana y bienestar universitario.
+
+En **marzo 2026** inicio un **Máster en Ingeniería de Software y Sistemas Informáticos** en la **Universidad Internacional de La Rioja – UNIR (España)**, con énfasis en arquitecturas distribuidas y cloud computing.
+
+```ts
 const santiago = {
-  code: ["TypeScript", "JavaScript", "Node.js", "Java", "Python"],
-  focus: ["Full Stack Development", "Frontend Engineering", "Quality Assurance"],
-  stack: {
-    frontend: ["React 18", "TypeScript", "Tailwind CSS", "Vite"],
-    backend: ["Node.js", "Express.js", "PostgreSQL", "RESTful APIs"],
-    devOps: ["Docker", "Git", "CI/CD", "Linux"],
-    testing: ["Jest", "Cypress", "Manual Testing", "Test Automation"]
-  },
-  currentlyLearning: "Advanced Testing Strategies & Cloud Architecture",
-  lookingFor: "Full Stack, Frontend, or QA opportunities"
+  ubicacion:   "Tunja, Colombia 🇨🇴 — disponible para trabajo remoto 🌍",
+  stack:       ["Java · Spring Boot", "React · TypeScript", "Node.js · Express", "React Native", "PostgreSQL"],
+  actualmente: "Finalizando Ingeniería de Sistemas · Iniciando Maestría UNIR",
+  intereses:   ["Arquitecturas escalables", "SaaS", "Transformación digital", "Innovación en movilidad"],
+  buscando:    "Oportunidades Full-Stack · Backend · Trabajo remoto internacional",
 };
 ```
 
 ---
 
-## 💼 Professional Profiles
+## 🛠️ Stack Tecnológico
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎯 Full Stack Developer
-**PERN Stack Specialist**
-
-Build end-to-end web applications using:
-- **Frontend:** React 18 + TypeScript
-- **Backend:** Node.js + Express.js
-- **Database:** PostgreSQL
-- **DevOps:** Docker, CI/CD, Git
-
-✅ 60% performance improvement  
-✅ RESTful API design  
-✅ Real-time inventory systems
-
-</td>
-<td width="33%" valign="top">
-
-### 🎨 Frontend Developer
-**React & Performance Expert**
-
-Specialized in modern frontend:
-- **React 18** (Hooks, Context)
-- **TypeScript** for type safety
-- **Performance** optimization
-- **Responsive** design
-
-✅ 60% load time reduction  
-✅ Component libraries  
-✅ Web Vitals optimization
-
-</td>
-<td width="33%" valign="top">
-
-### 🧪 QA Tester
-**Manual & Automation Testing**
-
-Quality assurance experience:
-- **Manual Testing** (functional, UI/UX)
-- **Test Case** design
-- **Bug Tracking** (Jira, Trello)
-- **Basic Automation** (Jest, Cypress)
-
-✅ 50+ critical bugs detected  
-✅ Regression testing  
-✅ Agile collaboration
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend Development
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -103,138 +45,120 @@ Quality assurance experience:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend Development
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Testing & Quality Assurance
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### DevOps & Tools
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### 🗣️ [Confiésate USTA](https://confiesate.vercel.app/)
-**Anonymous Social Network for University Community**
-
-Full stack TypeScript application with real-time content moderation and scalable architecture for university students to share anonymous confessions.
-
-- **Stack:** React 18 + TypeScript + Node.js + Express + PostgreSQL
-- **Features:** JWT Authentication, Real-time updates, Content moderation, Anonymous posting
-- **Metrics:** 100+ active users, 95% uptime, <200ms average response time
-- **Deployed:** Vercel (Frontend) + Vercel (Backend)
-
-**🔑 Key Technical Achievements:**
-- Implemented secure authentication with JWT and bcrypt for user management
-- Designed PostgreSQL schema optimized for high-traffic queries and real-time content
-- Created fully responsive UI with Tailwind CSS using mobile-first approach
-- Integrated CI/CD pipeline with GitHub Actions for automated deployments
-- Built moderation system for content filtering and user safety
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🚌 [ViajeExpress - Mobile App](https://github.com/metatech-programmer/viajeExpressApp) | [ViajeExpress - Web Platform](https://github.com/metatech-programmer/viejaeexpress) 
-**Offline-First Payment System for Public Transport**
+## 💼 Experiencia Profesional
 
-Innovative mobile and web solution solving connectivity issues in public transportation with QR-based payments that work without internet connection.
+### 🏢 Desarrollador Full-Stack — Trébol Colombia S.A.S
+**Abr 2025 – Oct 2025 · Tunja, Colombia**
 
-- **Stack:** React Native + Node.js + PostgreSQL + SQLite (mobile) | React + Node.js (web)
-- **Architecture:** Offline-First with async data synchronization when connection is restored
-- **Impact:** Presented at 5+ engineering conferences (2024-2025)
-- **Recognition:** Award-winning project at regional innovation competitions
+Desarrollo y mantenimiento de plataformas SaaS para el sector empresarial.
 
-**🔑 Technical Highlights:**
-- Designed asynchronous payment validation protocol that works completely offline
-- Implemented local SQLite database with cloud PostgreSQL synchronization
-- Built QR code generation and validation system for ticket purchases
-- Applied AES encryption for sensitive payment information
-- Created conflict resolution algorithm for offline-to-online data sync
+| Logro | Impacto |
+|-------|---------|
+| Optimización de rendimiento frontend | **−60% en tiempo de carga** (FCP: 3.5s → 1.4s) |
+| Biblioteca de componentes reutilizables | **+15 componentes**, −35% código duplicado |
+| Arquitectura modular | **+45% velocidad** en entrega de funcionalidades |
+| QA & documentación de bugs | **+50 errores críticos** detectados antes de producción |
 
----
-
-### 🛒 [TusPinsTunja E-commerce](https://github.com/metatech-programmer/TusPinsTunja)
-**B2B Inventory Management Platform - Two Versions**
-
-Complete e-commerce solution with real-time inventory management and automated order processing for B2B sales. Built in two versions for different business needs.
-
-**Version 1 - Enterprise (Spring Boot):** [Backend Repo](https://github.com/metatech-programmer/pins)
-- **Stack:** Spring Boot + Java + PostgreSQL + Cloud Storage + WhatsApp API Integration
-- **Features:** Full backend API, Cloud image storage, B2B WhatsApp order notifications
-- **Scale:** Handles 500+ concurrent transactions with database optimization
-- **Business Impact:** 30% increase in sales conversion, 100% order automation
-
-**Version 2 - Lightweight (Frontend-First):**
-- **Stack:** React + TypeScript + Local Storage + JSON-based products
-- **Features:** Client-side product management, Local image storage, Quick deployment
-- **Use Case:** Simplified version for rapid MVP testing and demonstrations
-- **Performance:** Faster initial load, works offline, no server costs
-
-**🔑 Shared Features:**
-- Real-time inventory management with automatic stock alerts
-- Admin dashboard with analytics, reporting, and sales metrics
-- Fully responsive design optimized for mobile and desktop
-- Product catalog with search, filters, and category organization
-- Shopping cart with order summary and checkout flow
-
-**🔧 Technical Decisions:**
-- **Version 1 (Enterprise):** Production-ready with robust backend, database persistence, and third-party integrations for scaling B2B operations
-- **Version 2 (Lightweight):** Quick-to-deploy frontend solution with JSON data source, ideal for testing and smaller-scale operations
+**Stack:** React 18 · TypeScript · Node.js · APIs REST · Tailwind CSS · Agile/Kanban
 
 ---
 
-### 📅 [TimeSchedule PWA](https://github.com/metatech-programmer/time-schedule)
-**Progressive Web App for Task Management**
+### 🎓 Mentor Académico e Investigador Asociado — Universidad Santo Tomás
+**2022 – 2025 · Tunja, Colombia**
 
-Offline-first task scheduler demonstrating advanced PWA capabilities and modern web standards.
-
-- **Stack:** Vanilla JavaScript + Service Workers + IndexedDB + Cache API
-- **Performance:** Lighthouse score 95+ (Performance), 100 (Accessibility)
-- **Users:** 100+ active users leveraging offline functionality
-- **Installable:** Works as standalone app on mobile and desktop
-
-**🔑 PWA Features:**
-- Service Workers for intelligent offline asset caching
-- IndexedDB for persistent local data storage
-- Full task management functionality without network connection
-- Responsive design with native app-like experience
-- Background sync for data updates when reconnecting
+- Apoyo técnico a **+60 estudiantes** en programación, estructuras de datos y algoritmos.
+- Co-lideré **ViajeExpress**, sistema de pago QR para transporte público presentado en congresos internacionales.
+- Investigación activa en innovación digital, transformación tecnológica y plataformas de bienestar universitario.
 
 ---
 
-### 🔐 [WishGirlfriend](https://github.com/metatech-programmer/wishGirlfriend)
-**Privacy-Focused Social Application**
+## 🌟 Proyectos Destacados
 
-Social platform with emphasis on user privacy and data security, implementing end-to-end encryption for sensitive information.
+### 🚌 ViajeExpress — Sistema de Pago QR para Transporte Público
+> *Ecosistema completo de pago digital offline-first para transporte urbano*
 
-- **Stack:** Node.js + Express + PostgreSQL + AES Encryption
-- **Security Focus:** Data encryption, OWASP protection (SQL Injection, XSS)
-- **Architecture:** Privacy-first design with encrypted local storage
+**Stack:** `React Native` · `React` · `Node.js` · `Express` · `TypeScript` · `PostgreSQL` · `Mercado Pago`
 
-**🔑 Security Implementations:**
-- AES encryption for sensitive user data at rest
-- Protection against common vulnerabilities (OWASP Top 10)
-- Secure authentication and session management
-- Input validation and sanitization
+- 📱 **App móvil** como billetera digital: genera QR dinámico cifrado que se actualiza cada **5 segundos**
+- 🚌 **Lector QR en buses**: valida saldo y autoriza pago incluso **sin conexión a internet** (offline-first)
+- 💳 **Integración Mercado Pago** para recargas seguras de saldo
+- 🔐 Cifrado avanzado de datos y diseño accesible para todas las edades
+- 🏆 Presentado como ponencia en **+6 congresos internacionales** de ingeniería (2024–2025)
+
+[![Repo App](https://img.shields.io/badge/Repo_App_Móvil-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metatech-programmer/viajeExpressApp)
+[![Repo Web](https://img.shields.io/badge/Repo_Web-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metatech-programmer/viejaeexpress)
+
+---
+
+### 🗣️ Confesiones USTA — Plataforma Anónima de Bienestar Universitario
+> *Red social anónima y segura para comunidad universitaria*
+
+**Stack:** `React` · `Node.js` · `TypeScript` · `PostgreSQL` · `JWT`
+
+- 👥 **+100 usuarios activos** con autenticación JWT y moderación de contenido
+- 🔒 Arquitectura de privacidad avanzada para proteger la identidad del usuario
+- ⚡ Tiempo de respuesta promedio <200ms · 95% uptime
+- 🏆 Ponente en **Congreso Internacional TEINCO 2025** — *"Confesiones USTA: Innovación Tecnológica y Seguridad en Plataformas de Interacción Anónima Universitaria"*
+
+[![Ver App](https://img.shields.io/badge/Ver_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://confiesate.vercel.app/)
+
+---
+
+### 🛒 TusPinsTunja — Plataforma de E-commerce B2B
+> *Sistema de gestión de inventario en tiempo real con dos versiones*
+
+**Versión Enterprise:** `Spring Boot` · `Java` · `PostgreSQL` · `WhatsApp API`
+- 🔗 Integración con WhatsApp API para notificaciones automáticas de pedidos
+- 📦 Gestión de inventario en tiempo real con alertas de stock
+- 📊 Dashboard con analytics, métricas de ventas y reportes automáticos
+
+**Versión Lightweight:** `React` · `TypeScript` · `Local Storage`
+- ⚡ Despliegue rápido, sin costos de servidor, funciona offline
+
+[![Repo](https://img.shields.io/badge/Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metatech-programmer/TusPinsTunja)
+
+---
+
+### 📅 TimeSchedule — PWA Offline de Gestión de Tareas
+> *Progressive Web App con capacidades offline avanzadas*
+
+**Stack:** `JavaScript` · `Service Workers` · `IndexedDB` · `Cache API`
+
+- 📱 Instalable como app nativa en móvil y escritorio
+- 🔌 Funcionalidad **100% offline** con sincronización automática
+- ⚡ Lighthouse: **Performance 95+** · **Accessibility 100** · **Best Practices 100**
+
+[![Repo](https://img.shields.io/badge/Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metatech-programmer/time-schedule)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Santiago's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=metatech-programmer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=metatech-programmer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=metatech-programmer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
@@ -244,76 +168,73 @@ Social platform with emphasis on user privacy and data security, implementing en
 
 ---
 
-## 💡 Current Focus (January 2026)
+## 🏆 Congresos y Eventos Científicos Internacionales
 
-```diff
-+ Building production-ready showcase project (PERN stack + tests + CI/CD)
-+ Advancing testing skills: Jest (unit testing) + Cypress (E2E testing)
-+ Pursuing Master's in Software Engineering (UNIR, Spain - starts March 2026)
-+ Open to Full Stack, Frontend, and QA opportunities (remote-friendly)
+| Año | Evento | Rol | Proyecto |
+|-----|--------|-----|---------|
+| Oct 2025 | VIII Congreso Internacional TEINCO | Ponente | Confesiones USTA |
+| Sep 2025 | Jornada XX Aniversario Fac. Ing. Sistemas USTA | Ponente | Bienestar Digital |
+| May 2025 | II Congreso Internacional Ingeniería con Sentido Social (CIISS – UNIMINUTO) | Ponente | ViajeExpress |
+| Oct 2024 | VII Congreso Internacional TEINCO | Ponente | ViajeExpress |
+| Sep 2024 | VIII Encuentro Internacional Investigación Universitaria (ENIIU) | Ponente | ViajeExpress |
+| Sep 2024 | I Congreso Internacional Ingeniería de Sistemas Ci3S Colombia | Ponente | Movilidad QR |
+| Abr 2024 | I Semana de Investigación, Innovación y Proyección Social USTA | Ponente | ViajeExpress |
+
+---
+
+## 🎓 Educación
+
+🎓 **Máster en Ingeniería de Software y Sistemas Informáticos**
+Universidad Internacional de La Rioja — UNIR · España · *Inicio: Marzo 2026*
+> Arquitecturas distribuidas · Cloud Computing · Calidad del Software · Gestión de Proyectos
+
+🏛️ **Ingeniería de Sistemas**
+Universidad Santo Tomás – Tunja, Colombia · *2021 – 2026*
+> Mención de honor académica · Investigación activa en sistemas de información
+
+---
+
+## 📜 Certificaciones
+
+- ✅ **Scrum for Ops & DevOps Fundamentals** — SCRUMstudy (2024)
+- ✅ **Responsive Web Design** — freeCodeCamp (300 hrs)
+- ✅ **JavaScript Algorithms & Data Structures** — freeCodeCamp (300 hrs)
+- ✅ **Programming with JavaScript** — Meta / Coursera
+- ✅ **Hackathon Boyacá Innova 2025** — Finalista
+
+---
+
+## 🌐 Líneas de Investigación Activas
+
+```
+📌 Sistemas de Información
+📌 Innovación Educativa y Tecnologías del Aprendizaje
+📌 Transformación Digital, Innovación Tecnológica y Sociedad
+📌 Desarrollo de Software · Seguridad de la Información · Redes y Telecomunicaciones
 ```
 
 ---
 
-## 📈 Professional Experience
+## 🤝 ¡Conectemos!
 
-**🏢 Frontend Developer (Web Developer)** @ Trébol Colombia S.A.S. *(Apr 2025 - Oct 2025)*
+Estoy abierto a oportunidades en:
 
-Specialized in frontend development and UI/UX implementation for SaaS platform in restaurant industry.
+- 🖥️ **Desarrollo Full-Stack** (Java Spring Boot + React)
+- ⚙️ **Backend Engineering** (APIs REST · Microservicios · Cloud)
+- 🌍 **Trabajo remoto internacional**
 
-**Key Responsibilities & Achievements:**
-- Built reusable React component library (15+ components) reducing duplicate code by 35%
-- Reduced initial page load time (FCP) by 60% implementing lazy loading and server-side pagination
-- Refactored monolithic components into atomic UI library following design system principles
-- Created responsive layouts with Tailwind CSS ensuring mobile-first approach
-- Integrated RESTful APIs with proper error handling and loading states
-- Collaborated closely with backend team to build scalable application architecture
-- Identified and documented 50+ bugs during development and testing phases
-- Worked in Agile/Kanban methodology with daily standups and sprint planning
-- Configured basic CI/CD pipeline with GitHub Actions reducing deployment time from 45min to 12min
-
-**Tech Stack:** React 18, TypeScript, Tailwind CSS, REST APIs, Git, GitHub Actions, Agile/Kanban
-
----
-
-## 🎓 Education & Certifications
-
-**📚 Bachelor's in Systems Engineering** - Universidad Santo Tomás (USTA)  
-*Expected Graduation: Early 2026* | Tunja, Colombia
-
-**🎓 Master's in Software Engineering & Information Systems** - UNIR (Spain)  
-*Starting: March 2026* | Focus: Scalable Architectures & Cloud Computing  
-*Compatible with full-time employment (online program)*
-
-**📜 Certifications:**
-- Programming with JavaScript - Coursera (Meta)
-- Responsive Web Design - freeCodeCamp (300 hrs)
-- JavaScript Algorithms & Data Structures - freeCodeCamp (300 hrs)
-- Scrum for Operations & DevOps Fundamentals (SODFC)
-- Hackathon Boyacá Innovate 2025 - Finalist
-
----
-
-## 🤝 Let's Connect!
-
-I'm currently **open to opportunities** in:
-- 🎯 **Full Stack Development** (PERN stack preferred)
-- 🎨 **Frontend Engineering** (React + TypeScript)
-- 🧪 **QA Testing** (Manual + Automation)
-
-📍 **Location:** Tunja, Colombia (Open to remote work worldwide)  
-📧 **Email:** santiagoaguilart0@gmail.com  
-💼 **LinkedIn:** [Santiago Aguilar Torres](https://www.linkedin.com/in/santiago-alexander-aguilar-torres-74a729137)  
-🌐 **Portfolio:** [santiagotorres-web-developer.netlify.app](https://santiagotorres-web-developer.netlify.app/)
-
----
+📍 Tunja, Colombia — disponible para reubicación o trabajo 100% remoto
 
 <div align="center">
 
-### 💭 "Building the future, one line of code at a time"
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Aguilar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoaguilartorres-fullstack)
+[![Email](https://img.shields.io/badge/Email-santiagoaguilart0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagoaguilart0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-santiagotorres--web--developer.netlify.app-000?style=for-the-badge&logo=netlify&logoColor=white)](https://santiagotorres-web-developer.netlify.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=metatech-programmer&color=blueviolet&style=for-the-badge)
+---
 
-⭐️ From [metatech-programmer](https://github.com/metatech-programmer) | Last Updated: January 2026
+*"El código es la herramienta. El impacto es el objetivo."*
+
+⭐️ Si algún proyecto te resulta útil, ¡una estrella es siempre bienvenida!
 
 </div>
