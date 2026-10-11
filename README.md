@@ -32,6 +32,7 @@ He construido módulos para un POS usado en restaurantes de **Colombia, México 
 | **Backend y APIs** | Node.js, Express, REST, JWT, WebSockets, Java / Spring Boot |
 | **Datos** | PostgreSQL, Prisma, Supabase, MySQL, SQLite |
 | **Mobile** | React Native (Expo), Flutter |
+| **Machine Learning** | TensorFlow / Keras, transfer learning (EfficientNet), ONNX, OpenCV |
 | **DevOps** | Docker, Linux, GitHub Actions (CI/CD), Vercel |
 | **Calidad** | Vitest, Playwright, Lighthouse |
 | **IA aplicada** | Google Gemini, Claude, Groq (enrutamiento con failover) |
@@ -63,6 +64,7 @@ He construido módulos para un POS usado en restaurantes de **Colombia, México 
 |:---|:---|:---|:---|
 | **SecureMCP Gateway** | Pasarela de seguridad para que agentes de IA usen herramientas MCP en empresas: JWT, autorización RBAC/OPA, detección de prompt injection, auditoría inmutable y métricas. | Java, Spring Boot, Keycloak, OPA, Docker | [Código ↗](https://github.com/metatech-programmer/secure_mcp_gateway) |
 | **SDOC** | Formato abierto de documentos vivos: colaborativos en tiempo real (CRDT), offline-first, firmables y cifrables, con especificación propia. | React, TypeScript, Yjs, Spring Boot, microservicios, Kubernetes | [Código ↗](https://github.com/metatech-programmer/sdoc) |
+| **Clasificador de Arte con IA** | Clasifica obras en 8 categorías (pintura, escultura, retrato, paisaje…) con transfer learning; la demo corre en el navegador con ONNX Runtime Web. ~77 % de precisión. | Python, TensorFlow/Keras, EfficientNetB0, ONNX | [Demo en Hugging Face](https://huggingface.co/spaces/MetatechLabs/clasificador-arte) |
 | **ViajeExpress** | Pago del transporte público con QR dinámico (se regenera cada 5 s) y validación sin internet en el bus. 26 rutas y 4 empresas integradas. Capítulo de libro (Ediciones USTA, 2026) y Premio INNOVARE. | React Native, React, Node.js, TypeScript, PostgreSQL, Mercado Pago | [viajexpress.vercel.app](https://viajexpress.vercel.app) |
 | **Cobri** | Terminal de cobro con QR interoperable (Bre-B): un QR fijo y el comercio elige desde el celular a qué cuenta llega cada pago, con confirmación en tiempo real. | Next.js, TypeScript, Prisma, PostgreSQL, Supabase | [cobri.vercel.app](https://cobri.vercel.app) |
 | **Worldly** | App web y móvil para descubrir los 195 países con pasaporte digital, sellos y rachas. | Flutter, Riverpod, Next.js, Supabase | [worldly-app.vercel.app](https://worldly-app.vercel.app) |
