@@ -61,6 +61,8 @@ He construido módulos para un POS usado en restaurantes de **Colombia, México 
 
 | Proyecto | Qué resuelve | Stack | Demo |
 |:---|:---|:---|:---|
+| **SecureMCP Gateway** | Pasarela de seguridad para que agentes de IA usen herramientas MCP en empresas: JWT, autorización RBAC/OPA, detección de prompt injection, auditoría inmutable y métricas. | Java, Spring Boot, Keycloak, OPA, Docker | [Código ↗](https://github.com/metatech-programmer/secure_mcp_gateway) |
+| **SDOC** | Formato abierto de documentos vivos: colaborativos en tiempo real (CRDT), offline-first, firmables y cifrables, con especificación propia. | React, TypeScript, Yjs, Spring Boot, microservicios, Kubernetes | [Código ↗](https://github.com/metatech-programmer/sdoc) |
 | **ViajeExpress** | Pago del transporte público con QR dinámico (se regenera cada 5 s) y validación sin internet en el bus. 26 rutas y 4 empresas integradas. Capítulo de libro (Ediciones USTA, 2026) y Premio INNOVARE. | React Native, React, Node.js, TypeScript, PostgreSQL, Mercado Pago | [viajexpress.vercel.app](https://viajexpress.vercel.app) |
 | **Cobri** | Terminal de cobro con QR interoperable (Bre-B): un QR fijo y el comercio elige desde el celular a qué cuenta llega cada pago, con confirmación en tiempo real. | Next.js, TypeScript, Prisma, PostgreSQL, Supabase | [cobri.vercel.app](https://cobri.vercel.app) |
 | **Worldly** | App web y móvil para descubrir los 195 países con pasaporte digital, sellos y rachas. | Flutter, Riverpod, Next.js, Supabase | [worldly-app.vercel.app](https://worldly-app.vercel.app) |
@@ -69,7 +71,7 @@ He construido módulos para un POS usado en restaurantes de **Colombia, México 
 | **Confesiones USTA** | Red social anónima de bienestar universitario con moderación; +100 usuarios activos. | React, Node.js, TypeScript, PostgreSQL, JWT | [confiesate.vercel.app](https://confiesate.vercel.app) |
 | **TusPinsTunja** | E-commerce B2B con notificación automática de cada pedido por WhatsApp Business API. | Spring Boot, React, PostgreSQL | [tuspinstunja.vercel.app](https://tuspinstunja.vercel.app) |
 
-> El código de algunos proyectos es privado. Con gusto lo muestro en una entrevista técnica.
+> SecureMCP Gateway y SDOC son open source. El código de los demás proyectos es privado; con gusto lo muestro en una entrevista técnica.
 
 ---
 
